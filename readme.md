@@ -8,4 +8,5 @@ readme.md
 + networkpgg.nlogo - EC with free-rider penalty on a user-defined complex network
 + pit_cooperation.nlogo - EC based on random walk
 
-# ref [The Evolution of Cooperation](https://github.com/jihegao/The-Evolution-of-Cooperation/blob/master/axelrod-cooperation.pdf)
+# ref 
+[The Evolution of Cooperation](https://github.com/jihegao/The-Evolution-of-Cooperation/blob/master/axelrod-cooperation.pdf)
